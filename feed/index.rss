@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CuongThach</title>
+	<atom:link href="/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Hướng Dẫn Tạo Blog Cho Người Mới</description>
+	<lastBuildDate>Thu, 24 Dec 2020 00:51:01 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/12/cropped-Favicon-CuongThach-News-32x32.png</url>
+	<title>CuongThach</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cách tạo bảng chuyên dụng cho blog affiliate không dùng WordPress plugin</title>
+		<link>/wordpress/cach-tao-bang-chuyen-affiliate-cho-blog-wordpress-khong-can-plugin</link>
+					<comments>/wordpress/cach-tao-bang-chuyen-affiliate-cho-blog-wordpress-khong-can-plugin#respond</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Thu, 24 Dec 2020 00:50:58 +0000</pubDate>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[Affiliate]]></category>
+		<guid isPermaLink="false">/?p=28178</guid>
+
+					<description><![CDATA[Hướng dẫn cách tạo các loại bảng chuyên dụng (so sánh, đánh giá, thông tin, liệt kê,...) cho blog affiliate không cần dùng WordPress plugin.]]></description>
+		
+					<wfw:commentRss>/wordpress/cach-tao-bang-chuyen-affiliate-cho-blog-wordpress-khong-can-plugin/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hướng dẫn cài đặt Google AMP cho blog WordPress miễn phí chi tiết từ A-Z</title>
+		<link>/wordpress/huong-dan-cai-dat-google-amp-cho-blog-wordpress-mien-phi</link>
+					<comments>/wordpress/huong-dan-cai-dat-google-amp-cho-blog-wordpress-mien-phi#respond</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2020 13:26:59 +0000</pubDate>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[tạo blog]]></category>
+		<category><![CDATA[tạo website]]></category>
+		<guid isPermaLink="false">/?p=27773</guid>
+
+					<description><![CDATA[Google AMP là cách đơn giản nhất để bài viết của bạn ngay lập tức có tốc độ tải trang dưới một giây trên thiết bị di động kể cả khi dùng hosting giá rẻ.]]></description>
+		
+					<wfw:commentRss>/wordpress/huong-dan-cai-dat-google-amp-cho-blog-wordpress-mien-phi/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.cuongthach.com/file/CuongThach/Huong-dan-cach-chen-Google-Analytics-AMP.mp4" length="0" type="video/mp4" />
+<enclosure url="https://cdn.cuongthach.com/wp-content/uploads/2020/09/amp-ads.mp4" length="1175247" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Hyvor Talk: Nền tảng bình luận tuyệt vời thay thế Disqus và WordPress Comment</title>
+		<link>/usecase/hyvor-talk-he-thong-binh-luan-thay-the-disqus-va-wordpress-comment</link>
+					<comments>/usecase/hyvor-talk-he-thong-binh-luan-thay-the-disqus-va-wordpress-comment#respond</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2020 03:37:55 +0000</pubDate>
+				<category><![CDATA[Công Cụ]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">/?p=27559</guid>
+
+					<description><![CDATA[Hướng dẫn cách cài đặt và sử dụng Hyvor Talk, hệ thống bình luận (comment) thay thế Disqus, WordPress và các nền tảng comment phổ biến khác.]]></description>
+		
+					<wfw:commentRss>/usecase/hyvor-talk-he-thong-binh-luan-thay-the-disqus-va-wordpress-comment/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.cuongthach.com/file/CuongThach/cai-dat-Hyvor-Talk-WordPress.mp4" length="0" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/Chuyen-binh-luan-tu-WordPress-sang-Hyvor-Talk.mp4" length="0" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/Dung-Hyvor-Talk-tren-Ladipage.mp4" length="0" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/Chen-Hyvor-Talk-vao-theme-Ghost.mp4" length="0" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Hướng dẫn tạo tài khoản Mailgun SMTP miễn phí 30.000 emails/tháng</title>
+		<link>/email-marketing/huong-dan-tao-tai-khoan-mailgun-smtp-mien-phi</link>
+					<comments>/email-marketing/huong-dan-tao-tai-khoan-mailgun-smtp-mien-phi#respond</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2020 05:20:15 +0000</pubDate>
+				<category><![CDATA[Tiếp Thị Email]]></category>
+		<category><![CDATA[Email marketing]]></category>
+		<guid isPermaLink="false">/?p=27473</guid>
+
+					<description><![CDATA[Mailgun đã bỏ gói miễn phí 10.000 emails/tháng nhưng bạn vẫn có thủ thuật để tạo tài khoản Mailgun miễn phí lên đến 30.000 emails/tháng.]]></description>
+		
+					<wfw:commentRss>/email-marketing/huong-dan-tao-tai-khoan-mailgun-smtp-mien-phi/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.cuongthach.com/file/CuongThach/tao-tai-khoan-Mailgun.mp4" length="0" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/lay-api-mailgun.mp4" length="0" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/tao-SMTP-credentials-Mailgun.mp4" length="0" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Ghost CMS: Nền tảng viết blog &#8220;chuyên dụng&#8221; thay thế WordPress</title>
+		<link>/copywriting/ghost-cms-nen-tang-viet-blog-chuyen-dung-thay-the-wordpress</link>
+					<comments>/copywriting/ghost-cms-nen-tang-viet-blog-chuyen-dung-thay-the-wordpress#comments</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2020 09:53:59 +0000</pubDate>
+				<category><![CDATA[Viết Lách]]></category>
+		<category><![CDATA[Blogging]]></category>
+		<category><![CDATA[tạo blog]]></category>
+		<category><![CDATA[viết blog]]></category>
+		<guid isPermaLink="false">/?p=27352</guid>
+
+					<description><![CDATA[Tại sao nên dùng Ghost CMS để viết blog thay vì dùng WordPress? Hướng dẫn sử dụng Ghost cơ bản và phân tích ưu nhược điểm của Ghost.]]></description>
+		
+					<wfw:commentRss>/copywriting/ghost-cms-nen-tang-viet-blog-chuyen-dung-thay-the-wordpress/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hướng dẫn cài đặt thông báo WordPress tức thì bằng Slack chuyên nghiệp</title>
+		<link>/wordpress/huong-dan-cai-dat-thong-bao-wordpress-bang-slack</link>
+					<comments>/wordpress/huong-dan-cai-dat-thong-bao-wordpress-bang-slack#comments</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2020 06:16:43 +0000</pubDate>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">/?p=27225</guid>
+
+					<description><![CDATA[Hướng dẫn cài đặt thông báo WordPress thời gian thực bằng Slack cực hữu ích khi bạn có nhóm cùng quản lý một hay nhiều website hỗ trợ cho thông báo bằng email.]]></description>
+		
+					<wfw:commentRss>/wordpress/huong-dan-cai-dat-thong-bao-wordpress-bang-slack/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		<enclosure url="https://media.cuongthach.com/file/CuongThach/tao-tai-khoan-slack-moi.mp4" length="0" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/tao-webhook-URL-Slack-App.mp4" length="0" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Hướng dẫn cách tạo một website bán hàng online miễn phí đa nền tảng bằng Ecwid</title>
+		<link>/usecase/huong-dan-cach-tao-mot-website-ban-hang-mien-phi-voi-ecwid</link>
+					<comments>/usecase/huong-dan-cach-tao-mot-website-ban-hang-mien-phi-voi-ecwid#comments</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2020 03:07:22 +0000</pubDate>
+				<category><![CDATA[Công Cụ]]></category>
+		<category><![CDATA[Woocommerce]]></category>
+		<guid isPermaLink="false">/?p=27071</guid>
+
+					<description><![CDATA[Hướng dẫn cách tạo một website bán hàng online miễn phí đa nền tảng đơn giản bằng Ecwid, không phụ thuộc vào WordPress hay WooCommerce.]]></description>
+		
+					<wfw:commentRss>/usecase/huong-dan-cach-tao-mot-website-ban-hang-mien-phi-voi-ecwid/feed</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		<enclosure url="https://media.cuongthach.com/file/CuongThach/Huong-dan-cau-hinh-thanh-toan-COD-va-Transfer.mp4" length="10445588" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/Huong-dan-cau-hinh-van-chuyen-trong-ecwid.mp4" length="17080825" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/Cau-hinh-chung-cho-Ecwid.mp4" length="14433841" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/Huong-dan-tao-mot-san-pham-vat-ly-trong-Ecwid.mp4" length="10127881" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/Huong-dan-tao-Instant-Web-trong-Ecwid.mp4" length="27890089" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/Them-Ecwid-vao-WordPress.mp4" length="19613595" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Google Search Console là gì và 3 công dụng &#8220;ít biết&#8221; nhưng hữu dụng</title>
+		<link>/seo/google-search-console-la-gi-va-cong-dung-huu-ich</link>
+					<comments>/seo/google-search-console-la-gi-va-cong-dung-huu-ich#respond</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Thu, 28 May 2020 08:27:55 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<category><![CDATA[SEO optimize]]></category>
+		<guid isPermaLink="false">/?p=27023</guid>
+
+					<description><![CDATA[Khi bắt đầu đưa blog của bạn "lên sóng" thì Google Search Console là công cụ đầu tiên bạn tiếp xúc trước cả Google Analytics, vậy bạn có biết Google Search Console là gì? Nó còn những công dụng nào mà bạn còn chưa biết?]]></description>
+		
+					<wfw:commentRss>/seo/google-search-console-la-gi-va-cong-dung-huu-ich/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WordPress là gì? 19 thứ mà WordPress có thể làm được ngoài blog</title>
+		<link>/wordpress/wordpress-la-gi-wordpress-co-the-lam-duoc-gi</link>
+					<comments>/wordpress/wordpress-la-gi-wordpress-co-the-lam-duoc-gi#respond</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Thu, 21 May 2020 01:25:18 +0000</pubDate>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[tạo blog]]></category>
+		<category><![CDATA[viết blog]]></category>
+		<guid isPermaLink="false">/?p=26816</guid>
+
+					<description><![CDATA[Một số cách dùng WordPress khác ngoài việc dùng để viết blog và những cơ hội kinh doanh kèm theo không phải ai cũng biết.]]></description>
+		
+					<wfw:commentRss>/wordpress/wordpress-la-gi-wordpress-co-the-lam-duoc-gi/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cách viết content curation hiệu quả, xây dựng nội dung cho blog mới</title>
+		<link>/copywriting/cach-viet-content-curation-hieu-qua-xay-dung-noi-dung-cho-blog</link>
+					<comments>/copywriting/cach-viet-content-curation-hieu-qua-xay-dung-noi-dung-cho-blog#respond</comments>
+		
+		<dc:creator><![CDATA[Quốc Cường]]></dc:creator>
+		<pubDate>Sun, 17 May 2020 00:41:31 +0000</pubDate>
+				<category><![CDATA[Viết Lách]]></category>
+		<category><![CDATA[viết bài]]></category>
+		<category><![CDATA[viết blog]]></category>
+		<guid isPermaLink="false">/?p=26771</guid>
+
+					<description><![CDATA[Hướng dẫn cách viết content curation hiệu quả từng bước một cho blogger mới. Là một kỹ thuật mà blogger mới nên tiếp cận đầu tiên để tạo sức bật ban đầu cho blog mới.]]></description>
+		
+					<wfw:commentRss>/copywriting/cach-viet-content-curation-hieu-qua-xay-dung-noi-dung-cho-blog/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.cuongthach.com/file/CuongThach/thu-thap-y-tuong-cho-content-curation-voi-getkeywords.mp4" length="0" type="video/mp4" />
+<enclosure url="https://media.cuongthach.com/file/CuongThach/Thu-thap-y-tuong-cua-top-10-website.mp4" length="0" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

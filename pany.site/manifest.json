@@ -1,0 +1,23 @@
+{
+	"name": "CuongThach Store",
+		"short_name": "CuongThach S",
+		"description": "Cửa hàng CuongThach",
+		"icons": [
+			{
+				"src": "https://d2j6dbq0eux0bg.cloudfront.net/images/25652004/1454947116.jpg",
+				"type": "image/jpg",
+				"sizes": "192x192"
+			},
+			{
+				"src": "https://d2j6dbq0eux0bg.cloudfront.net/images/25652004/1454947116.jpg",
+				"type": "image/jpg",
+				"sizes": "512x512"
+			}
+		],
+	"start_url": ".",
+	"background_color": "#FFFFFF",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#FFFFFF",
+	"version": "1.0"
+}
