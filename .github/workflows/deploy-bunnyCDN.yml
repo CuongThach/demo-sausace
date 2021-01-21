@@ -1,4 +1,6 @@
 on: push
+name: 🚀 Deploy website on push
+jobs:
 name: BunnyCDN storage deployer
 uses: ayeressian/bunnycdn-storage-deploy@v1.0.2
 with:
