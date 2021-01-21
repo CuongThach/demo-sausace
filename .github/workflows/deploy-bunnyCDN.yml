@@ -2,12 +2,16 @@ on: push
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
-    name: Deploy
+    name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: BunnyCDN storage deployer
-        uses: ayeressian/bunnycdn-storage-deploy@v1.0.2
-        with:
-          source: "about-me"
-          storageZoneName: "static-site"
-          accessKey: "${{ secrets.BUNNY_CDN_STORAGE_KEY }}"
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v2.3.2
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      with:
+        server: storage.bunnycdn.com
+        server-dir: /static-site/
+        username: static-site
+        password: ${{ secrets.ftp_password }}
