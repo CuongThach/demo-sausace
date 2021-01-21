@@ -1,0 +1,6 @@
+- name: BunnyCDN storage deployer
+  uses: ayeressian/bunnycdn-storage-deploy@master
+  with:
+    source: "dist"
+    storageZoneName: "myzone"
+    accessKey: "${{ secrets.BUNNY_CDN_STORAGE_KEY }}"
