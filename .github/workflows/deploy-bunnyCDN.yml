@@ -1,11 +1,4 @@
-on: push
-name: 🚀 Deploy website on push
-jobs:
-  web-deploy:
-    name: 🎉 Deploy
-    runs-on: ubuntu-latest
-    steps:
-      - name: BunnyCDN storage deployer
+name: BunnyCDN storage deployer
       uses: ayeressian/bunnycdn-storage-deploy@v1.0.2
       with:
         source: "/"
