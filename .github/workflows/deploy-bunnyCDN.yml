@@ -1,6 +1,13 @@
-- name: BunnyCDN storage deployer
+on: push
+name: 🚀 Deploy website on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+  - name: BunnyCDN storage deployer
   uses: ayeressian/bunnycdn-storage-deploy@master
   with:
-    source: "dist"
-    storageZoneName: "myzone"
+    source: "/"
+    storageZoneName: "static-site"
     accessKey: "${{ secrets.BUNNY_CDN_STORAGE_KEY }}"
