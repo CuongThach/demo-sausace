@@ -1,6 +1,6 @@
 name: BunnyCDN storage deployer
-      uses: ayeressian/bunnycdn-storage-deploy@v1.0.2
-      with:
-        source: "/"
-        storageZoneName: "static-site"
-        accessKey: "${{ secrets.BUNNY_CDN_STORAGE_KEY }}"
+uses: ayeressian/bunnycdn-storage-deploy@v1.0.2
+with:
+  source: "/"
+  storageZoneName: "static-site"
+  accessKey: "${{ secrets.BUNNY_CDN_STORAGE_KEY }}"
